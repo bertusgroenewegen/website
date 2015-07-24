@@ -1,6 +1,15 @@
-# website
-Personal website
+# website: bertusgroenewegen.nl
+* Curriculum Vitae
+* Technical Showoff
+* Infographic
 
-# Tooling used
+## tooling used
 * Gulp
+
+## tooling [roadmap]
+* Libsass
+* Blocss
+* Assemble
+* Angular
+
 
