@@ -1,12 +1,19 @@
 {
   "name": "bertusgroenewegen",
   "version": "1.0.0",
-  "description": "showoff",
-  "author": "Bertus Groenewegen",
+  "description": "About Me",
+  "Repo": "",
+  "author": {
+    "name": "Bertus Groenewegen",
+    "url": "https://github.com/bertusgroenewegen"
+  },
+  "main": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bertusgroenewegen/website.git"
+  },
   "license": "ISC",
-  "devDependencies": {
-    "gulp": "^3.9.0",
-    "gulp-connect": "^2.2.0",
-    "gulp-load-plugins": "^0.10.0"
+  "dependencies": {
+
   }
 }
